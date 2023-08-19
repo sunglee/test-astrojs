@@ -8,6 +8,9 @@ dependencies:
   '@astrojs/tailwind':
     specifier: ^4.0.0
     version: 4.0.0(astro@2.10.11)(tailwindcss@3.3.3)
+  '@fontsource-variable/oswald':
+    specifier: ^5.0.8
+    version: 5.0.8
   '@types/react':
     specifier: ^18.0.21
     version: 18.2.20
@@ -774,6 +777,10 @@ packages:
     requiresBuild: true
     dev: false
     optional: true
+
+  /@fontsource-variable/oswald@5.0.8:
+    resolution: {integrity: sha512-9Id3QJF1mWEgACiCi2ZF22MuKimA/JQC1WMnFUQpdPwVUJ0ivo9mPAH7lbCMsJFu5yuoD7WkqQbDu/mCcMBsiw==}
+    dev: false
 
   /@jridgewell/gen-mapping@0.3.3:
     resolution: {integrity: sha512-HLhSWOLRi875zjjMG/r+Nv0oCW8umGb0BgEhyX3dDX3egwZtB8PqLnjz3yedt8R5StBrzcg4aBpnh8UA9D1BoQ==}
